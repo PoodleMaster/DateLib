@@ -1,4 +1,9 @@
 # DateLib
+ループさせたい期間を指定する。
+その期間、日本時間とUTC時間をprint処理する。
+
+※print処理は、本来やりたい処理に変更する。
+
 # Exec
 ```
 python ./main.py
