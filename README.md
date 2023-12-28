@@ -5,7 +5,7 @@ python ./main.py
 ```
 # Result
 ```
-C:\Users\xxxxx\Downloads\python\DateLib>python ./main.py
+python ./main.py
 Term : 2024-01-01T00:00:00 - 2024-01-31T23:59:59
 API : JapTime: 2024-01-01T00:00:00 - 2024-01-01T23:59:59, UtcTime: 2023-12-31T15:00:00Z - 2024-01-01T14:59:59Z
 API : JapTime: 2024-01-02T00:00:00 - 2024-01-02T23:59:59, UtcTime: 2024-01-01T15:00:00Z - 2024-01-02T14:59:59Z
